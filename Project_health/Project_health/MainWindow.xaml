@@ -1,0 +1,47 @@
+﻿<Window x:Class="Project_health.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Project_health"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="537" Width="1077.625">
+    <Grid Height="528" VerticalAlignment="Top">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition Width="0*"/>
+        </Grid.ColumnDefinitions>
+        <Label x:Name="label" Content="ФИО пациента:" HorizontalAlignment="Left" Margin="31,34,0,0" VerticalAlignment="Top" RenderTransformOrigin="-0.053,-2.385" Width="99" Height="26"/>
+        <TextBox x:Name="textBox" HorizontalAlignment="Left" Height="23" Margin="135,38,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="309"/>
+        <Label x:Name="label1" Content="Информация о пациенте:" HorizontalAlignment="Left" Margin="31,90,0,0" VerticalAlignment="Top" Height="26" Width="151"/>
+        <Label x:Name="label2" Content="Канц. р код " HorizontalAlignment="Left" Margin="44,140,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="label3" Content="Скринкод " HorizontalAlignment="Left" Margin="44,184,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="label4" Content="Проф. риск код " HorizontalAlignment="Left" Margin="44,233,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="label5" Content="Репрод. р код" HorizontalAlignment="Left" Margin="44,281,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.184,-0.115"/>
+        <Label x:Name="label6" Content="Микроядра код" HorizontalAlignment="Left" Margin="44,338,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.105,-0.192"/>
+        <Label x:Name="label7" Content="НСТ-спонт." HorizontalAlignment="Left" Margin="238,140,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="label8" Content="Свет. эр код " HorizontalAlignment="Left" Margin="238,184,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="label9" Content="Группа риска по анк. код" HorizontalAlignment="Left" Margin="238,233,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="label9_Copy" Content="" HorizontalAlignment="Left" Margin="238,233,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="label10" Content="" HorizontalAlignment="Left" Margin="238,281,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="label11" Content="Дендриты код " HorizontalAlignment="Left" Margin="238,338,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.105,0.154"/>
+        <Label x:Name="label12" Content="Закл иммунолога " HorizontalAlignment="Left" Margin="424,140,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.447,0.038"/>
+        <Label x:Name="label13" Content="Нейтрофилы" HorizontalAlignment="Left" Margin="424,184,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="label14" Content="НСТ-инд." HorizontalAlignment="Left" Margin="424,233,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="label15" Content="ЦИК" HorizontalAlignment="Left" Margin="424,281,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="label16" Content="Лейкоциты код" HorizontalAlignment="Left" Margin="424,338,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="label17" Content="Т-лимф" HorizontalAlignment="Left" Margin="616,140,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="label18" Content="В-лимф" HorizontalAlignment="Left" Margin="616,184,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="label19" Content="Са 72-4" HorizontalAlignment="Left" Margin="616,233,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="label20" Content="ССГ" HorizontalAlignment="Left" Margin="616,281,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="label21" Content="РЭА" HorizontalAlignment="Left" Margin="615,338,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="label22" Content="Са 19-9" HorizontalAlignment="Left" Margin="815,140,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="label23" Content="Тестестерон" HorizontalAlignment="Left" Margin="815,184,0,0" VerticalAlignment="Top" RenderTransformOrigin="-0.316,0.423"/>
+        <Label x:Name="label24" Content="Ig G" HorizontalAlignment="Left" Margin="815,233,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="label25" Content="Ig M" HorizontalAlignment="Left" Margin="815,281,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="label26" Content="Ig А" HorizontalAlignment="Left" Margin="816,338,0,0" VerticalAlignment="Top" RenderTransformOrigin="-0.158,0.385"/>
+        <Button x:Name="button" Content="Button" HorizontalAlignment="Left" Margin="914,423,0,0" VerticalAlignment="Top" Width="75"/>
+        <Label x:Name="label27" Content="Лагуны код " HorizontalAlignment="Left" Margin="238,281,0,0" VerticalAlignment="Top"/>
+
+    </Grid>
+</Window>

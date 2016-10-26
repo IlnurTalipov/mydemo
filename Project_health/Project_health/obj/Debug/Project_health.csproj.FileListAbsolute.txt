@@ -1,0 +1,13 @@
+C:\Users\Талипов Ильнур\Desktop\категория здоровья\Project_health\Project_health\bin\Debug\Project_health.exe
+C:\Users\Талипов Ильнур\Desktop\категория здоровья\Project_health\Project_health\bin\Debug\Project_health.pdb
+C:\Users\Талипов Ильнур\Desktop\категория здоровья\Project_health\Project_health\obj\Debug\Project_health.csprojResolveAssemblyReference.cache
+C:\Users\Талипов Ильнур\Desktop\категория здоровья\Project_health\Project_health\obj\Debug\MainWindow.g.cs
+C:\Users\Талипов Ильнур\Desktop\категория здоровья\Project_health\Project_health\obj\Debug\App.g.cs
+C:\Users\Талипов Ильнур\Desktop\категория здоровья\Project_health\Project_health\obj\Debug\Project_health_MarkupCompile.cache
+C:\Users\Талипов Ильнур\Desktop\категория здоровья\Project_health\Project_health\obj\Debug\Project_health_MarkupCompile.lref
+C:\Users\Талипов Ильнур\Desktop\категория здоровья\Project_health\Project_health\obj\Debug\MainWindow.baml
+C:\Users\Талипов Ильнур\Desktop\категория здоровья\Project_health\Project_health\obj\Debug\Project_health.g.resources
+C:\Users\Талипов Ильнур\Desktop\категория здоровья\Project_health\Project_health\obj\Debug\Project_health.Properties.Resources.resources
+C:\Users\Талипов Ильнур\Desktop\категория здоровья\Project_health\Project_health\obj\Debug\Project_health.csproj.GenerateResource.Cache
+C:\Users\Талипов Ильнур\Desktop\категория здоровья\Project_health\Project_health\obj\Debug\Project_health.exe
+C:\Users\Талипов Ильнур\Desktop\категория здоровья\Project_health\Project_health\obj\Debug\Project_health.pdb
